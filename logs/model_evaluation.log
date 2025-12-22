@@ -1,0 +1,20 @@
+2025-12-22 22:59:23,161 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-12-22 22:59:23,409 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-12-22 22:59:23,422 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-12-22 22:59:23,439 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-12-22 22:59:23,440 - model_evaluation - ERROR - Failed to complete the model evaluation process: name 'Live' is not defined
+2025-12-22 23:00:10,241 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-12-22 23:00:10,441 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-12-22 23:00:10,449 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-12-22 23:00:10,477 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-12-22 23:00:11,082 - model_evaluation - ERROR - Failed to complete the model evaluation process: Empty git repo
+2025-12-22 23:00:42,609 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-12-22 23:00:42,804 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-12-22 23:00:42,813 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-12-22 23:00:42,830 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-12-22 23:00:43,521 - model_evaluation - ERROR - Failed to complete the model evaluation process: Empty git repo
+2025-12-22 23:03:00,967 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-12-22 23:03:01,177 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-12-22 23:03:01,185 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-12-22 23:03:01,201 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-12-22 23:03:01,774 - model_evaluation - ERROR - Failed to complete the model evaluation process: Empty git repo

@@ -1,0 +1,24 @@
+2025-12-22 22:43:44,146 - model_building - ERROR - File not found: params.yaml
+2025-12-22 22:43:44,146 - model_building - ERROR - Failed to complete the model building process: [Errno 2] No such file or directory: 'params.yaml'
+2025-12-22 22:45:09,802 - model_building - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 51)
+2025-12-22 22:45:09,812 - model_building - ERROR - Failed to complete the model building process: name 'params' is not defined
+2025-12-22 22:45:48,138 - model_building - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 51)
+2025-12-22 22:45:48,145 - model_building - ERROR - Failed to complete the model building process: train_model() missing 1 required positional argument: 'params'
+2025-12-22 22:52:35,756 - model_building - ERROR - File not found: params.yaml
+2025-12-22 22:52:35,757 - model_building - ERROR - Failed to complete the model building process: [Errno 2] No such file or directory: 'params.yaml'
+2025-12-22 22:55:10,606 - model_building - ERROR - File not found: params.yaml
+2025-12-22 22:55:10,606 - model_building - ERROR - Failed to complete the model building process: [Errno 2] No such file or directory: 'params.yaml'
+2025-12-22 22:56:01,241 - model_building - ERROR - File not found: params.yaml
+2025-12-22 22:56:01,242 - model_building - ERROR - Failed to complete the model building process: [Errno 2] No such file or directory: 'params.yaml'
+2025-12-22 22:58:38,913 - model_building - DEBUG - Parameters retrieved from params.yaml
+2025-12-22 22:58:38,949 - model_building - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 51)
+2025-12-22 22:58:38,952 - model_building - DEBUG - Initializing RandomForest model with parameters: {'n_estimators': 22, 'random_state': 2}
+2025-12-22 22:58:38,953 - model_building - DEBUG - Model training started with 4152 samples
+2025-12-22 22:58:39,083 - model_building - DEBUG - Model training completed
+2025-12-22 22:58:39,087 - model_building - DEBUG - Model saved to models/model.pkl
+2025-12-22 23:00:39,009 - model_building - DEBUG - Parameters retrieved from params.yaml
+2025-12-22 23:00:39,031 - model_building - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 51)
+2025-12-22 23:00:39,033 - model_building - DEBUG - Initializing RandomForest model with parameters: {'n_estimators': 22, 'random_state': 2}
+2025-12-22 23:00:39,034 - model_building - DEBUG - Model training started with 4152 samples
+2025-12-22 23:00:39,153 - model_building - DEBUG - Model training completed
+2025-12-22 23:00:39,156 - model_building - DEBUG - Model saved to models/model.pkl
